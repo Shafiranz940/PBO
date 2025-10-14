@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Coffee
+comment1.params=nama\ gula\ esBatu\ susu\ kopi\ air\ harga
+comment1.target=Coffee(java.lang.String,\ int,\ int,\ int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getNama()
+comment3.params=
+comment3.target=int\ getGula()
+comment4.params=
+comment4.target=int\ getEsBatu()
+comment5.params=
+comment5.target=int\ getSusu()
+comment6.params=
+comment6.target=int\ getKopi()
+comment7.params=
+comment7.target=int\ getAir()
+comment8.params=
+comment8.target=int\ getHarga()
+numComments=9

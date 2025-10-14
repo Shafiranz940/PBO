@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Ingredient
+comment1.params=nama\ stock\ unit
+comment1.target=Ingredient(java.lang.String,\ int,\ java.lang.String)
+comment2.params=amount
+comment2.target=boolean\ Stock(int)
+comment3.params=amount
+comment3.target=void\ pakai(int)
+comment4.params=amount
+comment4.target=void\ refill(int)
+comment5.params=
+comment5.target=int\ getStock()
+comment6.params=
+comment6.target=java.lang.String\ getNama()
+numComments=7

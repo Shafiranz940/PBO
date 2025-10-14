@@ -1,0 +1,3 @@
+[11:56:15.180889400] Espresso ukuran M (no ice)
+[12:58:55.249871800] Latte ukuran S (normal ice)
+[13:06:14.474407500] Cappuccino ukuran L (less ice)
