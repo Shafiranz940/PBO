@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PowerUp
+comment1.params=pong
+comment1.target=PowerUp(Pong)
+comment2.params=g
+comment2.target=void\ render(java.awt.Graphics)
+comment3.params=b
+comment3.target=boolean\ checkCollision(Ball)
+numComments=4

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Campaign
+comment1.params=
+comment1.target=void\ nextLevel()
+comment2.params=
+comment2.target=int\ getBallSpeed()
+comment3.params=
+comment3.target=int\ getScoreTarget()
+numComments=4
