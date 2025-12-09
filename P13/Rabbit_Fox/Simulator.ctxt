@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Simulator
+comment1.params=row\ col
+comment1.target=Simulator(int,\ int)
+comment2.params=maxSteps
+comment2.target=void\ simulate(int)
+comment3.params=
+comment3.target=void\ reset()
+comment4.params=
+comment4.target=void\ simulateOneStep()
+comment5.params=
+comment5.target=void\ populate()
+numComments=6

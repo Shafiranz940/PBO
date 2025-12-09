@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Field
+comment1.params=row\ col
+comment1.target=Field(int,\ int)
+comment2.params=location
+comment2.target=void\ clear(Location)
+comment3.params=object\ location
+comment3.target=void\ place(java.lang.Object,\ Location)
+comment4.params=
+comment4.target=void\ clearAll()
+comment5.params=location
+comment5.target=java.lang.Object\ getObjectAt(Location)
+comment6.params=location
+comment6.target=java.util.List\ getAllFreeAdjacentLocations(Location)
+comment7.params=location
+comment7.target=java.util.List\ adjacentLocations(Location)
+comment8.params=
+comment8.target=int\ getRow()
+comment9.params=
+comment9.target=int\ getCol()
+numComments=10

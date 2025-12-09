@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SimulatorView
+comment1.params=row\ col
+comment1.target=SimulatorView(int,\ int)
+comment2.params=animalClass\ viewChar
+comment2.target=void\ setView(java.lang.Class,\ java.lang.Character)
+comment3.params=step\ field
+comment3.target=void\ showField(int,\ Field)
+numComments=4
